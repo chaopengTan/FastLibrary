@@ -1,3 +1,4 @@
+
 # 常用开发库推介
 收集了日常开发过程中一些常用的开发库，这些开发库代码大部分都是经过本人开发使用！
 
@@ -10,6 +11,8 @@
   [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
  - 超级textview，可以制定多种item
   [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+  - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  [https://github.com/huanghaibin-dev/CalendarView](ht](w](https://github.com/huanghaibin-dev/CalendarView
 
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
