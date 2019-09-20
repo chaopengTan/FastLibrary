@@ -37,4 +37,6 @@
 ## Android studio 插件
 - 翻译插件
   [https://github.com/BolexLiu/ReciteWords](https://github.com/BolexLiu/ReciteWords)
-
+  
+## 复习资料-求职必备
+ [https://juejin.im/post/5d48e9c36fb9a06af13d50f9?utm_source=gold_browser_extension](https://juejin.im/post/5d48e9c36fb9a06af13d50f9?utm_source=gold_browser_extension)
